@@ -1,1 +1,1 @@
-Hi, I’m Shreya Raj, and I'm a freshman at San Jose state university studying computer science. I’m interested in developing my understanding of programming concepts and learning front and back end development. I’m currently learning data structures and algorithms in Java, and have previously learnt object oriented programming methodologies in Python as well.
+Hello,my name is Shreya Raj, and I am a sophomore at San Jose State University studying Computer Science. I’m interested in developing my understanding of programming concepts and learning front and back end development.
